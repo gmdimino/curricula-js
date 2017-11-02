@@ -10,7 +10,7 @@ En esta unidad aprenderemos:
 
 - Como manipular los nodos del DOM.
 - Como crear, añadir y eliminar Nodos al DOM.
-- Saber usar:
+- Saber usar los siguientes:
 
   * `.innerHTML`
   * `.textContent`
